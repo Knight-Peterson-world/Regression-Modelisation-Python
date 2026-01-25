@@ -2,7 +2,7 @@
 
 Projet Python de régression et modélisation visant à prédire les émissions de CO₂ d’un véhicule à partir de ses caractéristiques techniques.
 
-## Rapport du projet (PDF)
+## Rapport du projet (HTML)
 Le rapport complet est disponible ici :  
 https://drive.google.com/file/d/1b0CmVZnrViJlibp8XjmmVIfrs7btvD8P/view?usp=sharing
 
