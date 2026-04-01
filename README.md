@@ -4,8 +4,7 @@ Projet Python de régression et modélisation visant à prédire les émissions 
 
 ## Rapport du projet (HTML)
 Le rapport complet est disponible ici :  
-https://www.icloud.com/iclouddrive/0d92S0ha_mlyres4xFI5rBW6Q#R%C3%A9gression_et_mod%C3%A9lidsation
-
+https://drive.google.com/drive/folders/1jdcyPSCEtsdf6B7dHTPfAo1J_RD7X7AX?usp=drive_link
 ## Objectif du projet
 L’objectif est d’identifier les facteurs influençant les émissions de CO₂ et de comparer différentes méthodes de régression pénalisée et classique afin d’évaluer leurs performances prédictives.
 
